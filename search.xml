@@ -1,61 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>ASUS-TX3</title>
-    <url>/2023/08/13/ASUS-TX3/</url>
-    <content><![CDATA[<hr>
-<h2 id="以下信息由腾讯电脑管家提供导出时间：2023-8-13-18-38-27"><a href="#以下信息由腾讯电脑管家提供导出时间：2023-8-13-18-38-27" class="headerlink" title="以下信息由腾讯电脑管家提供导出时间：2023-8-13 18:38:27"></a>以下信息由腾讯电脑管家提供<br>导出时间：2023-8-13 18:38:27</h2><p>电脑概览</p>
-<p>电脑型号  华硕 ASUS TUF Gaming F15 FX507ZM_FX507ZM<br>操作系统  Microsoft Windows 11 专业版 (64位)<br>CPU  (英特尔)12th Gen Intel(R) Core(TM) i7-12700H(2300 MHz)<br>主板  华硕 FX507ZM<br>内存  64.00 GB (   5600 MHz)<br>主硬盘  512 GB (三星 SAMSUNG MZVL2512HCJQ-00B00 已使用时间: 未知)<br>显卡  NVIDIA GeForce RTX 3060 Laptop GPU (4095 MB)<br>显示器  奇美 CMN 32位真彩色 165Hz<br>声卡  USB Audio Device</p>
-<h2 id="网卡-Intel-R-Wi-Fi-6-AX201-160MHz"><a href="#网卡-Intel-R-Wi-Fi-6-AX201-160MHz" class="headerlink" title="网卡  Intel(R) Wi-Fi 6 AX201 160MHz"></a>网卡  Intel(R) Wi-Fi 6 AX201 160MHz</h2><p>CPU详情</p>
-<p>CPU厂商  GenuineIntel<br>CPU  (英特尔)12th Gen Intel(R) Core(TM) i7-12700H<br>CPU核心数  20<br>CPU默认频率  2300 MHz<br>CPU外频  100 MHz<br>CPU当前频率  2300 MHz<br>二级缓存  7680 KB<br>三级缓存  24576 KB<br>CPU电压  0.900 V<br>CPU序列号  BFEBFBFF000906A3<br>数据宽度  64bit<br>指令集  MMX,SSE,SSE2,SSE3,SSSE3,SSE4.1,SSE4.2,EM64T<br>扩展版本  Ext.Family 0  Ext.Model 9</p>
-<hr>
-<p>主板详情</p>
-<p>制造商  华硕<br>主板型号  FX507ZM<br>制造日期  2022&#x2F;06&#x2F;17<br>主板序列号  N9NRCX072771389<br>BIOS厂商  American Megatrends International, LLC.<br>BIOS版本  <em>ASUS</em> - 1072009 FX507ZM.315<br>BIOS大小  0 Bytes<br>芯片组<br>电脑厂商  华硕<br>电脑型号  ASUS TUF Gaming F15 FX507ZM_FX507ZM<br>系统安装日期  2022&#x2F;12&#x2F;26<br>最近启动时间  2023&#x2F;08&#x2F;13</p>
-<hr>
-<p>内存1详情</p>
-<p>内存名称     5600 MHz<br>内存大小  32 GB<br>内存频率  5600 MHz<br>插槽  Controller0-ChannelA-DIMM0<br>数据宽度  64bit</p>
-<p>内存2详情</p>
-<p>内存名称     5600 MHz<br>内存大小  32 GB<br>内存频率  5600 MHz<br>插槽  Controller1-ChannelA-DIMM0<br>数据宽度  64bit</p>
-<hr>
-<p>显卡1详情</p>
-<p>显卡名称  NVIDIA GeForce RTX 3060 Laptop GPU<br>显卡厂商  英伟达<br>显存大小  4095 MB<br>内核名称  NVIDIA GeForce RTX 3060 Laptop GPU</p>
-<p>显卡2详情</p>
-<p>显卡名称  Intel(R) Iris(R) Xe Graphics<br>显卡厂商  英特尔<br>显存大小  1024 MB<br>内核名称  Intel(R) Iris(R) Xe Graphics Family</p>
-<hr>
-<p>显示器详情</p>
-<p>显示器厂商  奇美<br>显示器名称  CMN<br>显示器代号  CMN1540<br>屏幕尺寸  15.3 英寸 (34厘米X19厘米)<br>屏幕比例  16:9<br>当前分辨率  2560 * 1440 (32位真彩色@165Hz)<br>最大分辨率  2560 * 1440<br>制造时间  2020&#x2F;3</p>
-<hr>
-<p>硬盘1详情</p>
-<p>硬盘厂商  三星<br>硬盘名称  三星 (SAMSUNG MZVL2512HCJQ-00B00)<br>硬盘大小  512 GB<br>硬盘已使用时间   (S.M.A.R.T.)<br>硬盘序列号  0025_38B7_21B1_4AB0.</p>
-<p>硬盘2详情</p>
-<p>硬盘名称  CT1000P5PSSD8<br>硬盘大小  1000 GB<br>硬盘已使用时间   (S.M.A.R.T.)<br>硬盘序列号  0000_0000_0000_0001_00A0_7522_3AE0_67E9.</p>
-<hr>
-<p>声卡1详情</p>
-<p>声卡名称  USB Audio Device<br>声卡厂商  Toshiba Bluetooth RFBUS, RFCOM, RFHID</p>
-<p>声卡2详情</p>
-<p>声卡名称  NVIDIA High Definition Audio<br>声卡厂商  英伟达</p>
-<hr>
-<p>网卡1详情</p>
-<p>网卡名称  Intel(R) Wi-Fi 6 AX201 160MHz<br>网卡厂商  英特尔<br>Mac地址  84:7B:57:26:78:93</p>
-<p>网卡2详情</p>
-<p>网卡名称  Intel(R) Ethernet Connection (16) I219-LM<br>网卡厂商  英特尔<br>Mac地址  A0:36:BC:2F:D5:24</p>
-<hr>
-<p>键盘详情</p>
-<p>名称  增强型(101 或 102 键)<br>类型  USB Input Device</p>
-<hr>
-<p>其它硬件1详情</p>
-<p>名称  USB Composite Device</p>
-<p>其它硬件2详情</p>
-<p>制造商  华硕<br>名称  USB Composite Device</p>
-<p>其它硬件3详情</p>
-<p>制造商  英特尔<br>名称  英特尔(R) 无线 Bluetooth(R)</p>
-<hr>
-]]></content>
-      <tags>
-        <tag>Laptop</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello Word</title>
     <url>/2023/07/18/hello-world/</url>
     <content><![CDATA[<p>别人的博客 <a href="http://tanglab.pku.edu.cn/">Tanglab</a>         free图床<a href="https://sm.ms/">SM.MS</a><span id="more"></span></p>
@@ -118,15 +63,6 @@
       </tags>
   </entry>
   <entry>
-    <title>英国作家赫伯特·乔治·威尔斯《时间机器》读后随记</title>
-    <url>/2023/07/20/%E8%8B%B1%E5%9B%BD%E4%BD%9C%E5%AE%B6%E8%B5%AB%E4%BC%AF%E7%89%B9%C2%B7%E4%B9%94%E6%B2%BB%C2%B7%E5%A8%81%E5%B0%94%E6%96%AF%E3%80%8A%E6%97%B6%E9%97%B4%E6%9C%BA%E5%99%A8%E3%80%8B%E8%AF%BB%E5%90%8E%E9%9A%8F%E8%AE%B0/</url>
-    <content><![CDATA[<p>在时间长河中，通过时光机观赏人类文明的历史变迁，<span id="more"></span>科技仍在不断发展，但就人性而言，却变得纯粹而两极分化。善良而无知的人们，与生活在地下的食肉族，共同生活在这个星球上。</p>
-]]></content>
-      <tags>
-        <tag>读书笔记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>案例-倒计时翻牌器动画</title>
     <url>/2023/07/22/%E6%A1%88%E4%BE%8B-%E5%80%92%E8%AE%A1%E6%97%B6%E7%BF%BB%E7%89%8C%E5%99%A8%E5%8A%A8%E7%94%BB/</url>
     <content><![CDATA[<p>类似于篮球场中的记分牌，能实现翻牌动画效果。</p>
@@ -146,6 +82,15 @@
       </categories>
       <tags>
         <tag>翻牌 css html</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>英国作家赫伯特·乔治·威尔斯《时间机器》读后随记</title>
+    <url>/2023/07/20/%E8%8B%B1%E5%9B%BD%E4%BD%9C%E5%AE%B6%E8%B5%AB%E4%BC%AF%E7%89%B9%C2%B7%E4%B9%94%E6%B2%BB%C2%B7%E5%A8%81%E5%B0%94%E6%96%AF%E3%80%8A%E6%97%B6%E9%97%B4%E6%9C%BA%E5%99%A8%E3%80%8B%E8%AF%BB%E5%90%8E%E9%9A%8F%E8%AE%B0/</url>
+    <content><![CDATA[<p>在时间长河中，通过时光机观赏人类文明的历史变迁，<span id="more"></span>科技仍在不断发展，但就人性而言，却变得纯粹而两极分化。善良而无知的人们，与生活在地下的食肉族，共同生活在这个星球上。</p>
+]]></content>
+      <tags>
+        <tag>读书笔记</tag>
       </tags>
   </entry>
 </search>
