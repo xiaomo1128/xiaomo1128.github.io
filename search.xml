@@ -16,6 +16,7 @@
 <p><a href="https://yibook.1kbtool.com/">综合搜寻站book</a></p>
 <p><a href="http://www.ucdrs.superlib.net/">全国图书馆参考咨询联盟</a></p>
 <p><a href="https://www.gnss.help/2017/06/12/pandoc-install-usage/#%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B">Pandoc 安装与使用心得</a> <a href="https://zhuanlan.zhihu.com/p/568056914">Pandoc安装和使用完全小白采坑记录</a>  <a href="http://e.betheme.net/zz/296810.html?action=onClick">使用 pandoc 进行文档转换（markdown转pdf）</a></p>
+<p><a href="https://zhuanlan.zhihu.com/p/605422778">PDG文件如何打开</a></p>
 <p>free图床<a href="https://sm.ms/">SM.MS</a><span id="more"></span></p>
 <p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
