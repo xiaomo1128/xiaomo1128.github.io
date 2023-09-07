@@ -6,8 +6,8 @@
     <content><![CDATA[<p>别人的博客 <a href="http://tanglab.pku.edu.cn/">Tanglab</a>  、<a href="https://brian-zzz.github.io/">https://brian-zzz.github.io</a>  </p>
 <p> Arch Linux安装：<a href="https://www.sohu.com/a/503951561_121124378">Arch Linux 才是永远的神！安装图文详解，高级 Linux 用户的选择 </a>  </p>
 <p>  <a href="https://mirrors.ustc.edu.cn/help/archlinux.html"><strong>发行版镜像</strong></a> </p>
-<p>  <a href="https://zh.annas-archive.org/">安娜的档案</a> </p>
-<p> <a href="https://singlelogin.se/">Z-Library Project</a> </p>
+<p>  <a href="https://zh.annas-archive.org/">安娜的档案</a>  <a href="https://findbooks.eu.org/">找书网</a>  <a href="https://findbooks.info/">找书网</a> </p>
+<p> <a href="https://singlelogin.se/">Z-Library Project</a>  </p>
 <p> <a href="https://iui.su/3454/">免费电子书下载网站 - 不死鸟 - 分享为王官网</a> </p>
 <p>  <a href="https://tyi45di4ct.jiandaoyun.com/dash/5e7d915c6c56d8000674a8b8">【简道云筛选】电子书下载网站大全</a>    </p>
 <p><a href="https://smallpdf.com/cn/unlock-pdf">使用smallpdf网站</a>  没有文件大小限制，经过多次测试</p>
@@ -17,6 +17,8 @@
 <p><a href="http://www.ucdrs.superlib.net/">全国图书馆参考咨询联盟</a></p>
 <p><a href="https://www.gnss.help/2017/06/12/pandoc-install-usage/#%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B">Pandoc 安装与使用心得</a> <a href="https://zhuanlan.zhihu.com/p/568056914">Pandoc安装和使用完全小白采坑记录</a>  <a href="http://e.betheme.net/zz/296810.html?action=onClick">使用 pandoc 进行文档转换（markdown转pdf）</a></p>
 <p><a href="https://zhuanlan.zhihu.com/p/605422778">PDG文件如何打开</a></p>
+<p><a href="https://readhub.one/">ReadHub｜读库</a></p>
+<p><a href="https://pdg2pdf.online/">PDG2PDF</a></p>
 <p>free图床<a href="https://sm.ms/">SM.MS</a><span id="more"></span></p>
 <p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
@@ -77,15 +79,6 @@
       </tags>
   </entry>
   <entry>
-    <title>英国作家赫伯特·乔治·威尔斯《时间机器》读后随记</title>
-    <url>/2023/07/20/%E8%8B%B1%E5%9B%BD%E4%BD%9C%E5%AE%B6%E8%B5%AB%E4%BC%AF%E7%89%B9%C2%B7%E4%B9%94%E6%B2%BB%C2%B7%E5%A8%81%E5%B0%94%E6%96%AF%E3%80%8A%E6%97%B6%E9%97%B4%E6%9C%BA%E5%99%A8%E3%80%8B%E8%AF%BB%E5%90%8E%E9%9A%8F%E8%AE%B0/</url>
-    <content><![CDATA[<p>在时间长河中，通过时光机观赏人类文明的历史变迁，<span id="more"></span>科技仍在不断发展，但就人性而言，却变得纯粹而两极分化。善良而无知的人们，与生活在地下的食肉族，共同生活在这个星球上。</p>
-]]></content>
-      <tags>
-        <tag>读书笔记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>案例-倒计时翻牌器动画</title>
     <url>/2023/07/22/%E6%A1%88%E4%BE%8B-%E5%80%92%E8%AE%A1%E6%97%B6%E7%BF%BB%E7%89%8C%E5%99%A8%E5%8A%A8%E7%94%BB/</url>
     <content><![CDATA[<p>类似于篮球场中的记分牌，能实现翻牌动画效果。</p>
@@ -105,6 +98,15 @@
       </categories>
       <tags>
         <tag>翻牌 css html</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>英国作家赫伯特·乔治·威尔斯《时间机器》读后随记</title>
+    <url>/2023/07/20/%E8%8B%B1%E5%9B%BD%E4%BD%9C%E5%AE%B6%E8%B5%AB%E4%BC%AF%E7%89%B9%C2%B7%E4%B9%94%E6%B2%BB%C2%B7%E5%A8%81%E5%B0%94%E6%96%AF%E3%80%8A%E6%97%B6%E9%97%B4%E6%9C%BA%E5%99%A8%E3%80%8B%E8%AF%BB%E5%90%8E%E9%9A%8F%E8%AE%B0/</url>
+    <content><![CDATA[<p>在时间长河中，通过时光机观赏人类文明的历史变迁，<span id="more"></span>科技仍在不断发展，但就人性而言，却变得纯粹而两极分化。善良而无知的人们，与生活在地下的食肉族，共同生活在这个星球上。</p>
+]]></content>
+      <tags>
+        <tag>读书笔记</tag>
       </tags>
   </entry>
 </search>
