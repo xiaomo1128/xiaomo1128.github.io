@@ -8,7 +8,7 @@
 <p>  <a href="https://mirrors.ustc.edu.cn/help/archlinux.html"><strong>发行版镜像</strong></a> </p>
 <p>  <a href="https://zh.annas-archive.org/">安娜的档案</a>  <a href="https://findbooks.eu.org/">找书网</a>  <a href="https://findbooks.info/">找书网</a> </p>
 <p> <a href="https://singlelogin.se/">Z-Library Project</a>  <a href="https://pdg2pdf.online/">PDG2PDF</a> </p>
-<p> <a href="https://iui.su/3454/">免费电子书下载网站 - 不死鸟 - 分享为王官网</a>      <a href="https://flowus.cn/share/6cbf1ff4-b9a0-4f40-a9b3-68fe23ca178d">DX-CX-eBook免费下载方法-分享帖子</a>  </p>
+<p> <a href="https://iui.su/3454/">免费电子书下载网站 - 不死鸟 - 分享为王官网</a>      <a href="https://flowus.cn/share/6cbf1ff4-b9a0-4f40-a9b3-68fe23ca178d">DX-CX-eBook免费下载方法-分享帖子</a>  <a href="https://bbs.yibook.org/">易书论坛-国内无法访问</a>  <a href="https://bbs.ssdown.org/">易书论坛-仅浏览</a>           </p>
 <p> <a href="http://www.ucdrs.superlib.net/">全国图书馆参考咨询联盟</a>  <a href="http://www.ccelib.com/">长春数字图书馆 </a> </p>
 <p>格式转换</p>
 <p><a href="https://smallpdf.com/cn/unlock-pdf">使用smallpdf网站</a>  没有文件大小限制，经过多次测试</p>
@@ -33,15 +33,6 @@
 <h3 id="Common-Instruct"><a href="#Common-Instruct" class="headerlink" title="Common Instruct"></a>Common Instruct</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">// 上传云端 部署站点</span><br><span class="line">$ hexo cl &amp;&amp; hexo g &amp;&amp; hexo d</span><br><span class="line">// 启动本地服务</span><br><span class="line">$ hexo cl &amp;&amp; hexo g &amp;&amp; hexo s</span><br><span class="line">// 删除public文件</span><br><span class="line">$ hexo cl</span><br><span class="line">// 根目录下生成public文件</span><br><span class="line">$ hexo g</span><br><span class="line"></span><br><span class="line">// 在你不希望渲染的md文章文件前加上一个下划线<span class="string">&quot;_&quot;</span>即可隐藏文章</span><br></pre></td></tr></table></figure>]]></content>
       <tags>
         <tag>Secret</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>英国作家赫伯特·乔治·威尔斯《时间机器》读后随记</title>
-    <url>/2023/07/20/%E8%8B%B1%E5%9B%BD%E4%BD%9C%E5%AE%B6%E8%B5%AB%E4%BC%AF%E7%89%B9%C2%B7%E4%B9%94%E6%B2%BB%C2%B7%E5%A8%81%E5%B0%94%E6%96%AF%E3%80%8A%E6%97%B6%E9%97%B4%E6%9C%BA%E5%99%A8%E3%80%8B%E8%AF%BB%E5%90%8E%E9%9A%8F%E8%AE%B0/</url>
-    <content><![CDATA[<p>在时间长河中，通过时光机观赏人类文明的历史变迁，<span id="more"></span>科技仍在不断发展，但就人性而言，却变得纯粹而两极分化。善良而无知的人们，与生活在地下的食肉族，共同生活在这个星球上。</p>
-]]></content>
-      <tags>
-        <tag>读书笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -101,6 +92,15 @@
 <p>​	几杯酒并不能吓到罗帕，而且他也知道，如果不喝他们敬的酒，这些人根本不会帮他。所以，尽管已经迫不及待地想要知道更多关于那个伊布卡（Ibouka）人的消息，他还是耐着性子同他们喝了起来。</p>
 <p>​	一小时后，他打听到了莫里斯·普瑞斯沃斯在布拉柴维尔的商业代理人，一个名为克劳德·马斯克的混血儿：他主要负责出售伊布卡（Ibouka）木材厂的产品，在布拉柴维尔港将装满伊布卡（Ibouka）木材的驳船卸下，再把空船送回上游。</p>
 <p>​	罗帕小心地抄下那人的姓名和地址，在不扫那些饱饮酒徒兴致的前提下匆匆离去。他们当然是群好人，但没多久就让他感觉乏味了。现在已经三点了，为了快点行动，他叫了辆出租车。幸运的是，到达目的地后，很快就遇到了马斯克，他用罗帕那个名字做了自我介绍。</p>
+]]></content>
+      <tags>
+        <tag>读书笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>英国作家赫伯特·乔治·威尔斯《时间机器》读后随记</title>
+    <url>/2023/07/20/%E8%8B%B1%E5%9B%BD%E4%BD%9C%E5%AE%B6%E8%B5%AB%E4%BC%AF%E7%89%B9%C2%B7%E4%B9%94%E6%B2%BB%C2%B7%E5%A8%81%E5%B0%94%E6%96%AF%E3%80%8A%E6%97%B6%E9%97%B4%E6%9C%BA%E5%99%A8%E3%80%8B%E8%AF%BB%E5%90%8E%E9%9A%8F%E8%AE%B0/</url>
+    <content><![CDATA[<p>在时间长河中，通过时光机观赏人类文明的历史变迁，<span id="more"></span>科技仍在不断发展，但就人性而言，却变得纯粹而两极分化。善良而无知的人们，与生活在地下的食肉族，共同生活在这个星球上。</p>
 ]]></content>
       <tags>
         <tag>读书笔记</tag>
